@@ -1,0 +1,11 @@
+/lib64/ld-linux-x86-64.so.2
+libc.so.6
+printf
+__libc_start_main
+__gmon_start__
+GLIBC_2.2.5
+UH-@
+UH-@
+[]A\A]A^A_
+flag{%016llx%016llx}
+;*3$"
