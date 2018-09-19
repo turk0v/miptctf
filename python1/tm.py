@@ -1,4 +1,4 @@
-password = 'E3F7D1980F611D2662D116F0891D7F3E'
+password = 'e3f7d1980f611d2662d116f0891d7f3e'
 print(password.lower())
 if password.lower() != password:
     print('loser1')

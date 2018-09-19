@@ -22,7 +22,8 @@ while (i < 50):
 	else:
 		print(datastore)
 
-
+# q00,q10,q01,q11,q20,q21
+# 1,2,3,4,5,6
 
 
 
